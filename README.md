@@ -181,7 +181,7 @@ Relevant backlinks आपकी साइट को Google की नजर म�
 
 <div class="cta">
 <p> आज ही अपनी वेबसाइट सबमिट करें</p>
-<a href="https://freesubmissionon.in">Submit Your Website Free</a>
+<a href="https://www.freesubmissionon.in/p/blog-page.html">Submit Your Website Free</a>
 </div>
 
 <footer>
